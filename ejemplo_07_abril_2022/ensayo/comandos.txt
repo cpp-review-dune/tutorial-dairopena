@@ -1,0 +1,15 @@
+    1  ls
+    2  cd ejemplo_07_abril_2022/
+    3  ls
+    4  cat ejercicios1.txt 
+    5  sed -i 's/hola/buenas/g' "ejercicios1.txt" 
+    6  cat ejercicios1.txt 
+    7  mkdir ensayo
+    8  ls
+    9  ls
+   10  cp ejercicios1.txt ensayo/
+   11  ls
+   12  cd ensayo/
+   13  ls
+   14  history
+   15  history > comandos.txt
